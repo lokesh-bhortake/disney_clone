@@ -10,7 +10,7 @@ import starwarV from './../assets/videos/star_warsV.mp4'
 import disneyV from './../assets/videos/disneyV.mp4'
 import marvelV from './../assets/videos/marvelV.mp4'
 import nationalGeographicV from './../assets/videos/national_geographicV.mp4'
-import pixarV from './../assets/Videos/pixarV.mp4'
+import pixarV from './../assets/videos/pixarV.mp4'
 
 
 export const menu = [
